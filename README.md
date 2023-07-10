@@ -1,2 +1,2 @@
 # Arduino-Code
-This repository contains the Arduino code we have written for our ECN-102 Project Obstacle Detecting Car using Arduino, Motor Driver Shield, Ultrasonic Sensor
+This repository contains the Arduino code we have written for our ECN-102 Project Obstacle Detecting Car using Arduino, Motor Driver Shield, Ultrasonic Sensor. Our car first detects an obstacle using the ultrasonic sensor and then it compares the distance with 25cm. If it is lesser then it computes the distance in the left and right and chooses the one with more distance left. A demo of our car can be found at https://drive.google.com/file/d/1J-rClSG9F-fKuhTniSm4lZL1zFV21LnF/view?usp=drivesdk
